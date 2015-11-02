@@ -1,0 +1,19 @@
+{
+  "name": "nebo-error-messages",
+  "version": "1.0.0",
+  "description": "error messages for form validator",
+  "main": "src/error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "error",
+    "messages",
+    "validate",
+    "jquery",
+    "html5",
+    "form"
+  ],
+  "author": "Nebo15",
+  "license": "MIT"
+}

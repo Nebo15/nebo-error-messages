@@ -1,0 +1,29 @@
+{
+  "name": "nebo-error-messages",
+  "description": "error messages for form validator",
+  "main": "src/error.js",
+  "authors": [
+    "Nebo15"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "error",
+    "messages",
+    "validate",
+    "jquery",
+    "html5",
+    "form"
+  ],
+  "moduleType": [],
+  "dependencies": {
+    "jquery": ">2.0.0"
+  },
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
