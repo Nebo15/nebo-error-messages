@@ -1,5 +1,7 @@
 # Nebo Error Messages
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nebo15/nebo-error-messages.svg)](https://greenkeeper.io/)
+
 Simple library for error messages to be used with our form validator.
 
 ## Methods
